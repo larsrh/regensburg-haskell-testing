@@ -1,0 +1,2 @@
+regensburg-haskell-testing
+==========================
