@@ -20,6 +20,7 @@ executable test
   main-is:             Test.hs
   build-depends:
       base >=4.7 && <4.8
+    , regensburg-haskell-testing
     , QuickCheck ==2.7.*
     , tasty ==0.10.*
     , tasty-html ==0.3.*
